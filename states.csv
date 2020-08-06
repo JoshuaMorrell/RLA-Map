@@ -1,6 +1,6 @@
 state,rla
 Alabama,1
-Alaska,0
+Alaska,1
 Arizona,0
 Arkansas,0
 California,2
@@ -10,34 +10,34 @@ Delaware,0
 Florida,0
 Georgia,2
 Hawaii,0
-Idaho,0
+Idaho,1
 Illinois,1
 Indiana,2
 Iowa,0
-Kansas,0
+Kansas,1
 Kentucky,0
 Louisiana,0
 Maine,1
-Maryland,0
+Maryland,1
 Massachusetts,0
 Michigan,2
 Minnesota,0
 Mississippi,0
 Missouri,1
 Montana,0
-Nebraska,1
+Nebraska,2
 Nevada,2
 New Hampshire,0
 New Jersey,2
 New Mexico,0
 New York,0
-North Carolina,0
+North Carolina,1
 North Dakota,0
 Ohio,2
 Oklahoma,0
 Oregon,2
 Pennsylvania,2
-Rhode Island,2
+Rhode Island,3
 South Carolina,1
 South Dakota,1
 Tennessee,1
@@ -48,4 +48,4 @@ Virginia,2
 Washington,2
 West Virginia,0
 Wisconsin,1
-Wyoming,0
+Wyoming,1
